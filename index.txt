@@ -1,1 +1,2 @@
 Este es mi primer archivo en GitHub
+Esta es una nueva edicion del index.txt
